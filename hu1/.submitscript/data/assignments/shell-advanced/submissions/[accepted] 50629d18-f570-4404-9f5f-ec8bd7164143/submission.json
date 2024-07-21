@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "first_name": "Leon Andre",
+            "last_name": "Kraft",
+            "matriculation_number": "5288953"
+        },
+        {
+            "first_name": "Cagkan Arda",
+            "last_name": "Sengenc",
+            "matriculation_number": "5337927"
+        },
+        {
+            "first_name": "Tim-Niclas",
+            "last_name": "Ruppert",
+            "matriculation_number": "5309081"
+        }
+    ],
+    "evaluation_result": null,
+    "id": "50629d18-f570-4404-9f5f-ec8bd7164143",
+    "timestamp_ns": 1687960482202331739,
+    "upload_log": "[2023-06-28 15:54:42.205925] Received submission 50629d18-f570-4404-9f5f-ec8bd7164143\n[2023-06-28 15:54:42.205981] Ip: 10.192.76.160\n[2023-06-28 15:54:42.206005] Team members: [('Kraft', 'Leon Andre', '5288953'), ('Sengenc', 'Cagkan Arda', '5337927'), ('Ruppert', 'Tim-Niclas', '5309081')]\n[2023-06-28 15:54:42.306550] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'shell-advanced'.\n[2023-06-28 15:54:42.306597] Your submission has the id 50629d18-f570-4404-9f5f-ec8bd7164143.\n[2023-06-28 15:54:42.306861] This assignment is currently not automatically evaluated.\n[2023-06-28 15:54:42.306882] You will receive more information about the evaluation from your lecturer\n\n"
+}
